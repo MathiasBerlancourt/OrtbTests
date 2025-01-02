@@ -1,0 +1,396 @@
+⚙️ Bid request:
+
+
+{
+  "id": "70a63493-299a-4c95-b274-bdf571f23a35",
+  "imp": [
+    {
+      "id": "edf5ddcf-6f10-4ebb-b2d9-f1fb2baae5b5",
+      "native": {
+        "request": "{\"native\":{\"ver\":\"1.2\",\"assets\":[{\"id\":1,\"data\":{\"type\":12,\"len\":15}},{\"id\":2,\"data\":{\"type\":3,\"len\":10}},{\"id\":3,\"required\":1,\"img\":{\"type\":1,\"wmin\":75,\"hmin\":75}},{\"id\":4,\"required\":1,\"title\":{\"len\":100}},{\"id\":5,\"data\":{\"type\":2,\"len\":20}},{\"id\":6,\"required\":1,\"img\":{\"type\":3,\"w\":1200,\"wmin\":600,\"h\":627,\"hmin\":313}}],\"plcmttype\":1,\"privacy\":0,\"eventtrackers\":[{\"event\":1,\"methods\":[1]}],\"aurlsupport\":1}}",
+        "ver": "1.2",
+        "api": [],
+        "battr": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          13,
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      "tagid": "IDAgMA",
+      "bidfloor": 1,
+      "bidfloorcur": "USD",
+      "instl": 0,
+      "secure": 1,
+      "displaymanager": "inmobi",
+      "displaymanagerver": "i1072",
+      "ext": {
+        "wopv": "6216c1b7-f6b3-47d8-ad92-9c23a4c24590",
+        "to": 3
+      }
+    }
+  ],
+  "app": {
+    "id": "1921088304",
+    "name": "BeReal: Photos & Friends Daily",
+    "bundle": "1459645446",
+    "storeurl": "https://apps.apple.com/us/app/bereal-photos-friends-daily/id1459645446?uo=4",
+    "pagecat": [],
+    "domain": "bereal.com",
+    "publisher": {
+      "id": "3232",
+      "name": "InMobi"
+    },
+    "cattax": 1
+  },
+  "device": {
+    "dnt": 0,
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "ip": "174.198.10.209",
+    "geo": {
+      "country": "USA",
+      "region": "PA",
+      "city": "fort washington",
+      "zip": "19034",
+      "type": 2,
+      "lat": 40.14074,
+      "lon": -75.20974,
+      "ipservice": 2
+    },
+    "make": "Apple",
+    "model": "iPhone 14 Pro",
+    "os": "iOS",
+    "osv": "18.0.1",
+    "js": 1,
+    "connectiontype": 6,
+    "devicetype": 4,
+    "language": "en",
+    "ifa": "368C8366-5523-479C-9B18-C0B3F0F78E29",
+    "lmt": 0,
+    "ext": {
+      "is_app": 1
+    }
+  },
+  "user": {
+    "id": "0",
+    "ext": {
+      "eids": [
+        {
+          "source": "id5-sync.com",
+          "uids": [
+            {
+              "id": "ID5*NOszoCKU9w6LBr5KT5q7XTlIkxI0B7BbNIl2kAmDqBfiFZgz3HnMt4Po37S5wVGY"
+            }
+          ]
+        },
+        {
+          "source": "liveintent.com",
+          "uids": [
+            {
+              "id": "9-oSksUBse2KhSs1h9WgOkhftO1SXPX84qMOWWEASE6MXmIqqg91ECVutT4j+QeSQUFzBjZnfNaKqpNLlHVmvR4+clOih+sYPH0+Ae4yuU3xuXNg=="
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "at": 1,
+  "tmax": 250,
+  "cur": [
+    "USD"
+  ],
+  "bcat": [
+    "IAB23-1",
+    "IAB25-1",
+    "IAB25-2",
+    "IAB25-3",
+    "IAB25-4",
+    "IAB25-5",
+    "IAB25-6",
+    "IAB25-7",
+    "IAB26",
+    "IAB26-1",
+    "IAB26-2",
+    "IAB26-3",
+    "IAB26-4",
+    "IAB7-27",
+    "IAB7-26",
+    "IAB7-29",
+    "IAB7-28",
+    "IAB7-23",
+    "IAB7-22",
+    "IAB7-25",
+    "IAB7-24",
+    "IAB7-30",
+    "IAB7-32",
+    "IAB7-31",
+    "IAB23-5",
+    "IAB23-4",
+    "IAB23-3",
+    "IAB23-2",
+    "IAB23-9",
+    "IAB23-8",
+    "IAB23-7",
+    "IAB23-6",
+    "IAB7-38",
+    "IAB7-37",
+    "IAB7-39",
+    "IAB7-34",
+    "IAB7-33",
+    "IAB7-36",
+    "IAB7-35",
+    "IAB19-30",
+    "IAB7-41",
+    "IAB7-40",
+    "IAB7-43",
+    "IAB8-5",
+    "IAB7-42",
+    "IAB4-3",
+    "IAB13-4",
+    "IAB13-3",
+    "IAB8-18",
+    "IAB7-45",
+    "IAB7-44",
+    "IAB4-10",
+    "IAB9-25",
+    "IAB24",
+    "IAB7-10",
+    "IAB23-10",
+    "IAB7-19",
+    "IAB1-2",
+    "IAB7-16",
+    "IAB7-15",
+    "IAB7-18",
+    "IAB7-17",
+    "IAB7-12",
+    "IAB7-11",
+    "IAB7-14",
+    "IAB7-13",
+    "IAB7-4",
+    "IAB7-5",
+    "IAB7-6",
+    "IAB7-21",
+    "IAB7-7",
+    "IAB7-20",
+    "IAB14-8",
+    "IAB3-4",
+    "IAB7-1",
+    "IAB7-2",
+    "IAB7-3",
+    "IAB14-3",
+    "IAB14-2",
+    "IAB14-1",
+    "IAB7-8",
+    "IAB7-9",
+    "IAB18-2",
+    "IAB14-5",
+    "IAB9-9"
+  ],
+  "badv": [
+    "louisianalottery.com",
+    "mobeegaming.com",
+    "doubleugames.com",
+    "betano.ca",
+    "zeroogravitygames.com",
+    "zynga.com",
+    "silverreefcasino.com",
+    "casinogamehaus.com",
+    "swinomishcasinoandlodge.com",
+    "bolegames.com",
+    "bethesda.net",
+    "triwingames.com",
+    "betta-games.net",
+    "jackpotparty.com",
+    "kickapoo-casino.com",
+    "shopee.vn",
+    "productmadness.com",
+    "betocarrero.com.br",
+    "ibotta.com",
+    "pngaming.com",
+    "papayagaming.com",
+    "crypto.com",
+    "murka.com",
+    "solitairecash.com",
+    "cartercasino.com",
+    "huuugegames.com",
+    "doubledowncasino2.com",
+    "centurygames.com",
+    "casinohaus.com",
+    "leelanausandscasino.com",
+    "tap-nation.io",
+    "doubledowncasino.com",
+    "golden-hoyeah.com",
+    "playwsop.com"
+  ],
+  "source": {
+    "fd": 1,
+    "tid": "c803e94a-0181-4eb9-9cc8-b211d2045874",
+    "ext": {
+      "schain": {
+        "ver": "1.0",
+        "complete": 1,
+        "nodes": [
+          {
+            "asi": "inmobi.com",
+            "sid": "cf1ac1a5de5243e592c31858f354ffa2",
+            "hp": 1
+          },
+          {
+            "asi": "smartadserver.com",
+            "sid": "3232",
+            "hp": 1
+          }
+        ]
+      }
+    }
+  },
+  "regs": {
+    "ext": {
+      "gdpr": 0
+    }
+  },
+  "ext": {
+    "equativ": {
+      "integrationType": 2
+    }
+  },
+  "cattax": 1
+}
+
+
+---------------------------------------------------------------------------------------------------------
+
+
+[2025-01-02 23:39:07] Request #1:
+HTTP Status: 204
+Response Body: 
+Comment: 🟡 NO BID for this request
+---------------------------------------------------------------------------------------------------------
+[2025-01-02 23:39:08] Request #2:
+HTTP Status: 204
+Response Body: 
+Comment: 🟡 NO BID for this request
+---------------------------------------------------------------------------------------------------------
+[2025-01-02 23:39:08] Request #3:
+HTTP Status: 200
+Response Body: {
+  "id": "70a63493-299a-4c95-b274-bdf571f23a35",
+  "seatbid": [
+    {
+      "bid": [
+        {
+          "id": "00020b44449b823f8d03",
+          "impid": "edf5ddcf-6f10-4ebb-b2d9-f1fb2baae5b5",
+          "price": 2.85946217939643,
+          "nurl": "https://t-odx.op-mobile.opera.com/win?a=a4144024095168&adomain=revolve.com&b=1459645446&bf=2&cc=US&ch=inmobi&cid=nZ7op0L6l0SYgAYREhBp&cm=1&crid=QWPq7E5zLUJmrlNYPByS&ct=&dbid=20250102_p1lwfeG0VSxNfNjit60K&dic=1&dm=inmobi&dmv=i1072&drid=00020b44449b823f8d03_5360&dvm=iPhone14Pro&dvt=PHONE&ep=ep11903970670912&ext=ld_uBQlkTIMYIFA_4fbG0mEKRYUqw2uu9Bb86QxEPjtZ6MDek9fz3XQhtMVIrL2n7vyyFAylnGfe3xryojpS6SR3VWtyfZyJ8tYUbpQqCV494auvMDJ4yGJyEJsGnqrJ8GPnh_sDL6JefgbD57pB5KsNsaTniFfUCXb5-plMtiC5LvSEpdNbf2-RaAYwA8eX&gi=368C8366-5523-479C-9B18-C0B3F0F78E29&iabCat=IAB22&impr_dl=1735858748894&lang=en&m=m4144024095360&mbi=m12_f114&msz=1200x627&ot=IOS&ov=18.0.1&pic=1&pubId=pub10682794419520&radv=rtbhouse&rf=2&rip=174.198.10.209&s=s10682856751040&said=1921088304&sc=3&schp=1-3&se=00020b44449b823f8d03&siid=edf5ddcf-6f10-4ebb-b2d9-f1fb2baae5b5&spid=3232&srid=70a63493-299a-4c95-b274-bdf571f23a35&ss=2&stid=inmobi&tscid=2bb7a37a446502ca&u=3f621e22297a8c11&urf=2&va=a4144024095168&vm=m4144024095360&ac=${AUCTION_CURRENCY}&amtw=${AUCTION_MIN_TO_WIN}&ap=${AUCTION_PRICE}",
+          "burl": "https://t-odx.op-mobile.opera.com/billing?a=a4144024095168&adomain=revolve.com&b=1459645446&bf=2&bl=1&cbu=H4sIAAAAAAAC_wTA25J7PAAA8LfZO7uKVb6ZnW9Eq6Wi1KntjYmUijqLQzz9_1dQ2o3__fygsfjGQ4YomTP8ar5xW_8spOGalpKc_U8_f1aVbkYmu6UcyNDw3WLYxqxEV3syjYfpOk7k0nXPE-Gtaj2UHpasZhqNHQI8JuSAhRPeizpwumowLeDpXliUATrJEYsipe2dSu_xUjtBKZBlfLo3DPI5ShpdDmJNxwdrgqDlYWL36Oicz-ko7BR209Dw5CX_zG3M7qOH9RFCoDcvtRTF9ZofRTML_NMhjo554NvA9qSksfx3t72FAh7RujwM1b56gDxh6JLT1vtjteuCmNaDo8DLOHLqoPNJstB8_5TtKau7J-IvGWz9QWCwLhC5RPlw1EBxVaZPuYcIL-NNgx6JoMYvRD7vPKUsI9VmDiL-EcY1J_LpelhohJdxnRgJAMYbVwv4N5013n47TqD2SjrlY9bePEvq8SIfwGu45CxP5AjF3DZqQSqLkGrmHFvhvivzzjkaleNW7x48bkbIt4-lmS0lJfVsQFbs778sx8w0gv5iOWgxUtM97_hdJOIs7lTjJjWsgjH7_BYekZOw7fBJoNsqbl7p_-p3Wtv3x7oBznvt0WtVg5xyHxYSzg3f1v2eJA0oBMHeMNLPnCZJs_g6YfWzMDKxUTR3a1DPX0v3J34Lkioqyhd94T80Fv8CAAD__1ZisW1-AgAA&cc=US&ch=inmobi&cid=nZ7op0L6l0SYgAYREhBp&cm=1&crid=QWPq7E5zLUJmrlNYPByS&ct=&dbid=20250102_p1lwfeG0VSxNfNjit60K&dic=1&dm=inmobi&dmv=i1072&drid=00020b44449b823f8d03_5360&dvm=iPhone14Pro&dvt=PHONE&ep=ep11903970670912&ext=ld_uBQlkTIMYIFA_4fbG0mEKRYUqw2uu9Bb86QxEPjtZ6MDek9fz3XQhtMVIrL2n7vyyFAylnGfe3xryojpS6SR3VWtyfZyJ8tYUbpQqCV494auvMDJ4yGJyEJsGnqrJ8GPnh_sDL6JefgbD57pB5KsNsaTniFfUCXb5-plMtiC5LvSEpdNbf2-RaAYwA8eX&gi=368C8366-5523-479C-9B18-C0B3F0F78E29&iabCat=IAB22&impr_dl=1735858748894&iv=1&lang=en&m=m4144024095360&mbi=m12_f114&msz=1200x627&ot=IOS&ov=18.0.1&pic=1&pubId=pub10682794419520&radv=rtbhouse&rf=2&rip=174.198.10.209&s=s10682856751040&said=1921088304&sc=3&schp=1-3&se=00020b44449b823f8d03&siid=edf5ddcf-6f10-4ebb-b2d9-f1fb2baae5b5&spid=3232&srid=70a63493-299a-4c95-b274-bdf571f23a35&ss=2&stid=inmobi&tscid=2bb7a37a446502ca&u=3f621e22297a8c11&urf=2&va=a4144024095168&vm=m4144024095360&ac=${AUCTION_CURRENCY}&ap=${AUCTION_PRICE}",
+          "lurl": "https://t-odx.op-mobile.opera.com/loss?a=a4144024095168&adomain=revolve.com&b=1459645446&bf=2&cc=US&ch=inmobi&cid=nZ7op0L6l0SYgAYREhBp&cm=1&crid=QWPq7E5zLUJmrlNYPByS&ct=&dbid=20250102_p1lwfeG0VSxNfNjit60K&dic=1&dm=inmobi&dmv=i1072&drid=00020b44449b823f8d03_5360&dvm=iPhone14Pro&dvt=PHONE&ep=ep11903970670912&ext=ld_uBQlkTIMYIFA_4fbG0mEKRYUqw2uu9Bb86QxEPjtZ6MDek9fz3XQhtMVIrL2n7vyyFAylnGfe3xryojpS6SR3VWtyfZyJ8tYUbpQqCV494auvMDJ4yGJyEJsGnqrJ8GPnh_sDL6JefgbD57pB5KsNsaTniFfUCXb5-plMtiC5LvSEpdNbf2-RaAYwA8eX&gi=368C8366-5523-479C-9B18-C0B3F0F78E29&iabCat=IAB22&impr_dl=1735858748894&lang=en&m=m4144024095360&mbi=m12_f114&msz=1200x627&ot=IOS&ov=18.0.1&pic=1&pubId=pub10682794419520&radv=rtbhouse&rf=2&rip=174.198.10.209&s=s10682856751040&said=1921088304&sc=3&schp=1-3&se=00020b44449b823f8d03&siid=edf5ddcf-6f10-4ebb-b2d9-f1fb2baae5b5&spid=3232&srid=70a63493-299a-4c95-b274-bdf571f23a35&ss=2&stid=inmobi&tscid=2bb7a37a446502ca&u=3f621e22297a8c11&urf=2&va=a4144024095168&vm=m4144024095360&al=${AUCTION_LOSS}&amtw=${AUCTION_MIN_TO_WIN}",
+          "adm": "{\"native\":{\"ver\":\"1.2\",\"assets\":[{\"id\":1,\"data\":{\"value\":\"SHOP NOW\",\"len\":8}},{\"id\":3,\"required\":1,\"img\":{\"url\":\"https://statics.creativecdn.com/KQP78o8pVAepOc9PF3FK/revolvesquarelogo.png\",\"w\":75,\"h\":75}},{\"id\":4,\"required\":1,\"title\":{\"text\":\"New Arrivals Daily\"}},{\"id\":6,\"required\":1,\"img\":{\"url\":\"https://ash.creativecdn.com/images?id=d6ec97021eea0505501a3e9db3898a594c981119\\u0026w=1200\\u0026h=627\\u0026o=DIGR-MS61\\u0026fid=LJoNVHxOSNtF6I6UpdvT\",\"w\":1200,\"h\":627}}],\"link\":{\"url\":\"https://us.creativecdn.com/clicks?id=20250102_p1lwfeG0VSxNfNjit60K\\u0026tk=T1EjlRcLoJussOUlGQ0YweD1V8EqwsO80jTMkuKxjiU_vFi5Yyj_ldee3lR6IasSyulbe7k5QwCtvui3wG6AmKNaHhKlmek2zygWYAM1DFejQWanDSoqhuL3KmEkPYjja_UapyHPo-oBMA8kmbETf60HvPaQ_Q5-jItPaTSXaBCEn7zruQWInNICojtMnl5YTNzS6q2BrIJSrec2JstIIs6dpAEqUYQR9NSM2bCU3jasdH956amN7O4N2Cn9YsX88StMZHCczC_-1MKbH_K6ak51Ut8n4e__YhciKSSZ2yHtac6Af2rbkxKBaPqszmeP-CbvTHYYu1oA3b5t9b9_VwgL3vEe2yNtonu0iLnFRzVLaBK2upb0Gc2pqsYMLkoIk2eoqcmsRwuzXGxrEC21G_5gqYqLsmdV5x149tANhbMBGNfXg_gU1wsrlXeIRo-116dIozVPAeu3lDzBlcykVRCxfVCgalQ7dP6YmSbIs320qPGBpLp3isiVaDwuL5SY8NcjhzRSNi6RXfgzlIA_e_d7ZRmdmpBV6J27-62fOgENuWNE-jktFhppzwbm0PlYYn0MfsFlEycUgte7-HSqVQ\",\"clicktrackers\":[\"https://t-odx.op-mobile.opera.com/click?a=a4144024095168\\u0026adomain=revolve.com\\u0026b=1459645446\\u0026bf=2\\u0026cc=US\\u0026ch=inmobi\\u0026cid=nZ7op0L6l0SYgAYREhBp\\u0026cm=1\\u0026crid=QWPq7E5zLUJmrlNYPByS\\u0026ct=\\u0026dbid=20250102_p1lwfeG0VSxNfNjit60K\\u0026dic=1\\u0026dm=inmobi\\u0026dmv=i1072\\u0026drid=00020b44449b823f8d03_5360\\u0026dvm=iPhone14Pro\\u0026dvt=PHONE\\u0026ep=ep11903970670912\\u0026ext=ld_uBQlkTIMYIFA_4fbG0mEKRYUqw2uu9Bb86QxEPjtZ6MDek9fz3XQhtMVIrL2n7vyyFAylnGfe3xryojpS6SR3VWtyfZyJ8tYUbpQqCV494auvMDJ4yGJyEJsGnqrJ8GPnh_sDL6JefgbD57pB5KsNsaTniFfUCXb5-plMtiC5LvSEpdNbf2-RaAYwA8eX\\u0026gi=368C8366-5523-479C-9B18-C0B3F0F78E29\\u0026iabCat=IAB22\\u0026lang=en\\u0026m=m4144024095360\\u0026mbi=m12_f114\\u0026msz=1200x627\\u0026ot=IOS\\u0026ov=18.0.1\\u0026pic=1\\u0026pubId=pub10682794419520\\u0026radv=rtbhouse\\u0026rf=2\\u0026rip=174.198.10.209\\u0026s=s10682856751040\\u0026said=1921088304\\u0026sc=3\\u0026schp=1-3\\u0026se=00020b44449b823f8d03\\u0026siid=edf5ddcf-6f10-4ebb-b2d9-f1fb2baae5b5\\u0026spid=3232\\u0026srid=70a63493-299a-4c95-b274-bdf571f23a35\\u0026ss=2\\u0026stid=inmobi\\u0026tscid=2bb7a37a446502ca\\u0026u=3f621e22297a8c11\\u0026urf=2\\u0026va=a4144024095168\\u0026vm=m4144024095360\"]},\"eventtrackers\":[{\"event\":1,\"method\":1,\"url\":\"https://t-odx.op-mobile.opera.com/impr?a=a4144024095168\\u0026adomain=revolve.com\\u0026b=1459645446\\u0026bf=2\\u0026cc=US\\u0026ch=inmobi\\u0026cid=nZ7op0L6l0SYgAYREhBp\\u0026cm=1\\u0026crid=QWPq7E5zLUJmrlNYPByS\\u0026ct=\\u0026dbid=20250102_p1lwfeG0VSxNfNjit60K\\u0026dic=1\\u0026dm=inmobi\\u0026dmv=i1072\\u0026drid=00020b44449b823f8d03_5360\\u0026dvm=iPhone14Pro\\u0026dvt=PHONE\\u0026ep=ep11903970670912\\u0026ext=ld_uBQlkTIMYIFA_4fbG0mEKRYUqw2uu9Bb86QxEPjtZ6MDek9fz3XQhtMVIrL2n7vyyFAylnGfe3xryojpS6SR3VWtyfZyJ8tYUbpQqCV494auvMDJ4yGJyEJsGnqrJ8GPnh_sDL6JefgbD57pB5KsNsaTniFfUCXb5-plMtiC5LvSEpdNbf2-RaAYwA8eX\\u0026gi=368C8366-5523-479C-9B18-C0B3F0F78E29\\u0026iabCat=IAB22\\u0026impr_dl=1735858748894\\u0026lang=en\\u0026m=m4144024095360\\u0026mbi=m12_f114\\u0026msz=1200x627\\u0026ot=IOS\\u0026ov=18.0.1\\u0026pic=1\\u0026pubId=pub10682794419520\\u0026radv=rtbhouse\\u0026rf=2\\u0026rip=174.198.10.209\\u0026s=s10682856751040\\u0026said=1921088304\\u0026sc=3\\u0026schp=1-3\\u0026se=00020b44449b823f8d03\\u0026siid=edf5ddcf-6f10-4ebb-b2d9-f1fb2baae5b5\\u0026spid=3232\\u0026srid=70a63493-299a-4c95-b274-bdf571f23a35\\u0026ss=2\\u0026stid=inmobi\\u0026tscid=2bb7a37a446502ca\\u0026u=3f621e22297a8c11\\u0026urf=2\\u0026va=a4144024095168\\u0026vm=m4144024095360\\u0026ac=${AUCTION_CURRENCY}\\u0026ap=${AUCTION_PRICE}\"},{\"event\":1,\"method\":1,\"url\":\"https://ash.creativecdn.com/win-notify?tk=JlbzFe6Pj6T6MFSPhrzsejaOLuIFYIPNNVPtx70i2g9AqM4YJ69eAtWNiBQy2fByUuc73CBNplrIJBQCQUhjTaG6VyVV8oqNlCqcwmNTj2iwsZPRcBfvV_nC6TWACcDJuMBo0M_LqaENHHbs218yRAarZ04SH-zyLqVYJk2UBCnd9j33xOfE3IeTSGDWVEfTSLBLQ4_nJSgpzg2hMEaxwYF9LOQBiZMUPiGzqSsl1pTWtmrN8MKss-9rC0__wtf7Z6LuempZa0KeMoSr2yMmhaiKVfrEABhO8ukj7MacwsRAMQiVMA0wi6H1Q8jjV9LyNaiSEMWm-30bxDwtVcwsxuyiTBccz-m2c5bvA0LgNNT9q8bufseoRQJ4qcw6DBdrKfyf_6VaW-zsATb63MtAIvWJU7pjfpNEFlNPlgqBYRFU0oYwnvJ8bimvFMyh7X5yfcyIFTqKJNawFbIPH101V3ceWp9FR4nylMWyk5hQi6_UopcG2tzx3zQjS5CXtmLXYxzB-Qd7adx9Tft-kyUi-PUgJXX__nBh22LzcaCH-A44v3dGc9kwyiuys3I1xTmv\\u0026wp=3.249388\\u0026tdc=ash\"},{\"event\":1,\"method\":1,\"url\":\"https://opr.adx.opera.com/i?clid=opr\\u0026paid=opr\\u0026avid=adv3198545450624\\u0026caid=o3199620651328\\u0026plid=m4144024095360-QWPq7E5zLUJmrlNYPByS\\u0026siteId=app10682820282176\\u0026kv7=pub10682794419520\\u0026publisherId=3232\\u0026kv1=1200x627\\u0026kv4=174.198.10.209\\u0026kv3=3f621e22297a8c11\\u0026kv10=\\u0026kv12=s10682856751040\\u0026kv25=BeReal%3A+Photos+%26+Friends+Daily\\u0026kv15=US\\u0026kv16=40.14074000\\u0026kv17=-75.20974000\\u0026kv18=1459645446\\u0026kv19=368C8366-5523-479C-9B18-C0B3F0F78E29\\u0026kv28=iPhone14Pro\\u0026kv26=IOS\\u0026kv23=\\u0026kv27=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+18_0_1+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Mobile%2F15E148\\u0026kv11=00020b44449b823f8d03\\u0026lineItemId=a4144024095168\\u0026kv5=OpenRTB\\u0026kv55=1.0%2C1%21inmobi.com%2Ccf1ac1a5de5243e592c31858f354ffa2%2C1%2C%2C%2C%21smartadserver.com%2C3232%2C1%2C%2C%2C%21opera.com%2Cpub10682794419520%2C1%2C00020b44449b823f8d03_5360%2C%2C\\u0026kv24=Mobile_InApp_Native\"}],\"privacy\":\"\"}}",
+          "adomain": [
+            "revolve.com"
+          ],
+          "cid": "nZ7op0L6l0SYgAYREhBp",
+          "crid": "QWPq7E5zLUJmrlNYPByS",
+          "cat": [
+            "IAB22"
+          ],
+          "attr": [],
+          "h": 627,
+          "w": 1200,
+          "exp": 1200,
+          "mtype": 4,
+          "ext": {
+            "vxec": 0
+          }
+        }
+      ],
+      "seat": "0624"
+    }
+  ],
+  "bidid": "00020b44449b823f8d03",
+  "cur": "USD"
+}
+Comment: 🟢 BID for this request
+---------------------------------------------------------------------------------------------------------
+[2025-01-02 23:39:08] Request #4:
+HTTP Status: 204
+Response Body: 
+Comment: 🟡 NO BID for this request
+---------------------------------------------------------------------------------------------------------
+[2025-01-02 23:39:09] Request #5:
+HTTP Status: 204
+Response Body: 
+Comment: 🟡 NO BID for this request
+---------------------------------------------------------------------------------------------------------
+[2025-01-02 23:39:10] Request #6:
+HTTP Status: 204
+Response Body: 
+Comment: 🟡 NO BID for this request
+---------------------------------------------------------------------------------------------------------
+[2025-01-02 23:39:10] Request #7:
+HTTP Status: 204
+Response Body: 
+Comment: 🟡 NO BID for this request
+---------------------------------------------------------------------------------------------------------
+[2025-01-02 23:39:11] Request #8:
+HTTP Status: 204
+Response Body: 
+Comment: 🟡 NO BID for this request
+---------------------------------------------------------------------------------------------------------
+[2025-01-02 23:39:11] Request #9:
+HTTP Status: 200
+Response Body: {
+  "id": "70a63493-299a-4c95-b274-bdf571f23a35",
+  "seatbid": [
+    {
+      "bid": [
+        {
+          "id": "00020b44449e7d060380",
+          "impid": "edf5ddcf-6f10-4ebb-b2d9-f1fb2baae5b5",
+          "price": 2.5240377258318247,
+          "nurl": "https://t-odx.op-mobile.opera.com/win?a=a4144024095168&adomain=revolve.com&b=1459645446&bf=2&cc=US&ch=inmobi&cid=nZ7op0L6l0SYgAYREhBp&cm=1&crid=Ji0Inv2cgTU6DRBkEESG&ct=&dbid=20250102_8YViExP8R3xjoDw8HwlU&dic=1&dm=inmobi&dmv=i1072&drid=00020b44449e7d060380_5360&dvm=iPhone14Pro&dvt=PHONE&ep=ep11903970670912&ext=c3r9pILmdp4AeINO-3FwR0vK73iTG1tdoC7ik1UFOS3iVkxCy_vEp6tYzzDjkPNnM2-8imHoZVd0jClTXcO360uI14eo6u6yREzdCqQ9EDPDuVwE-wj_k1-8rOIzW6Bi_5M--_g21MizjK-5DahdTGcHthIjFJajec5qziC9sQVkf7xD8yAQdgoP3zAQuPMR&gi=368C8366-5523-479C-9B18-C0B3F0F78E29&iabCat=IAB22&impr_dl=1735858751945&lang=en&m=m4144024095360&mbi=m14_f117&msz=1200x627&ot=IOS&ov=18.0.1&pic=1&pubId=pub10682794419520&radv=rtbhouse&rf=2&rip=174.198.10.209&s=s10682856751040&said=1921088304&sc=3&schp=1-3&se=00020b44449e7d060380&siid=edf5ddcf-6f10-4ebb-b2d9-f1fb2baae5b5&spid=3232&srid=70a63493-299a-4c95-b274-bdf571f23a35&ss=2&stid=inmobi&tscid=2bb7a37a446502ca&u=3f621e22297a8c11&urf=2&va=a4144024095168&vm=m4144024095360&ac=${AUCTION_CURRENCY}&amtw=${AUCTION_MIN_TO_WIN}&ap=${AUCTION_PRICE}",
+          "burl": "https://t-odx.op-mobile.opera.com/billing?a=a4144024095168&adomain=revolve.com&b=1459645446&bf=2&bl=1&cbu=H4sIAAAAAAAC_wTA2XKyOgAA4LfpHW1llTPTOSOUXUAEBXLjBIKQxrDIEuDp_6-Zpn787-sLjs1n-a7ghJeqRO1n2dEvhluu7Sb83P6fyA89pf3pxZzMUKG0z-ZhEKTiJliIlUF_G0mrGeSID4er6bzxCwZD76m_q6jiZxWRJovD7oTqpSkXGCwypUsm8GwhYlr4ZnR1kD245W_NZd0VIUWQSvuSwAGkF7pmxZnv4kPwTT0vqHLc2ATb1NGXJ3VbhnyMm62RLzekAE6ONVfeil00mP_8VWjvgbbnrWA5yYWQ3teLoEkN1Ob8ZIqHej3cxsnShPydz_UFKVwoGA9nNtcLiUY1SWlcpaOV1Za7TrcMFFFUl9mfWHzDk9wr1V__xjhUwzuojGQMl_rh2fc6gfb26oYKn5011VMmTgqsB65bB7pUmogm1RIC8wFc9aygFY4tuUq-a3RuDDlk-yWyjeno-zy9yk9FDG5aGDs7ur9wXpnmazq-4_YhkL_dVCteHDRD4aizOsm-me4RwPolfy95HPIF0nbBp0Yu3KvQOM9MjUCcMT_S3aRJxVH3JJUAT98erTOdgxonhHGnFIihGpJF51ZlTq4gTfwZn497n7tpIofvwRtNUygHKWWSqM9PpgOrjwkYN64gD6291zOxRFVP9ggw5SxfUkXTRggYd_9g_Q__qQqiyisfEyp_4Nj8CwAA__8qKcONfgIAAA&cc=US&ch=inmobi&cid=nZ7op0L6l0SYgAYREhBp&cm=1&crid=Ji0Inv2cgTU6DRBkEESG&ct=&dbid=20250102_8YViExP8R3xjoDw8HwlU&dic=1&dm=inmobi&dmv=i1072&drid=00020b44449e7d060380_5360&dvm=iPhone14Pro&dvt=PHONE&ep=ep11903970670912&ext=c3r9pILmdp4AeINO-3FwR0vK73iTG1tdoC7ik1UFOS3iVkxCy_vEp6tYzzDjkPNnM2-8imHoZVd0jClTXcO360uI14eo6u6yREzdCqQ9EDPDuVwE-wj_k1-8rOIzW6Bi_5M--_g21MizjK-5DahdTGcHthIjFJajec5qziC9sQVkf7xD8yAQdgoP3zAQuPMR&gi=368C8366-5523-479C-9B18-C0B3F0F78E29&iabCat=IAB22&impr_dl=1735858751945&iv=1&lang=en&m=m4144024095360&mbi=m14_f117&msz=1200x627&ot=IOS&ov=18.0.1&pic=1&pubId=pub10682794419520&radv=rtbhouse&rf=2&rip=174.198.10.209&s=s10682856751040&said=1921088304&sc=3&schp=1-3&se=00020b44449e7d060380&siid=edf5ddcf-6f10-4ebb-b2d9-f1fb2baae5b5&spid=3232&srid=70a63493-299a-4c95-b274-bdf571f23a35&ss=2&stid=inmobi&tscid=2bb7a37a446502ca&u=3f621e22297a8c11&urf=2&va=a4144024095168&vm=m4144024095360&ac=${AUCTION_CURRENCY}&ap=${AUCTION_PRICE}",
+          "lurl": "https://t-odx.op-mobile.opera.com/loss?a=a4144024095168&adomain=revolve.com&b=1459645446&bf=2&cc=US&ch=inmobi&cid=nZ7op0L6l0SYgAYREhBp&cm=1&crid=Ji0Inv2cgTU6DRBkEESG&ct=&dbid=20250102_8YViExP8R3xjoDw8HwlU&dic=1&dm=inmobi&dmv=i1072&drid=00020b44449e7d060380_5360&dvm=iPhone14Pro&dvt=PHONE&ep=ep11903970670912&ext=c3r9pILmdp4AeINO-3FwR0vK73iTG1tdoC7ik1UFOS3iVkxCy_vEp6tYzzDjkPNnM2-8imHoZVd0jClTXcO360uI14eo6u6yREzdCqQ9EDPDuVwE-wj_k1-8rOIzW6Bi_5M--_g21MizjK-5DahdTGcHthIjFJajec5qziC9sQVkf7xD8yAQdgoP3zAQuPMR&gi=368C8366-5523-479C-9B18-C0B3F0F78E29&iabCat=IAB22&impr_dl=1735858751945&lang=en&m=m4144024095360&mbi=m14_f117&msz=1200x627&ot=IOS&ov=18.0.1&pic=1&pubId=pub10682794419520&radv=rtbhouse&rf=2&rip=174.198.10.209&s=s10682856751040&said=1921088304&sc=3&schp=1-3&se=00020b44449e7d060380&siid=edf5ddcf-6f10-4ebb-b2d9-f1fb2baae5b5&spid=3232&srid=70a63493-299a-4c95-b274-bdf571f23a35&ss=2&stid=inmobi&tscid=2bb7a37a446502ca&u=3f621e22297a8c11&urf=2&va=a4144024095168&vm=m4144024095360&al=${AUCTION_LOSS}&amtw=${AUCTION_MIN_TO_WIN}",
+          "adm": "{\"native\":{\"ver\":\"1.2\",\"assets\":[{\"id\":1,\"data\":{\"value\":\"SHOP NOW\",\"len\":8}},{\"id\":3,\"required\":1,\"img\":{\"url\":\"https://statics.creativecdn.com/CbRdmaJi6ke6RXn1U9Cy/revolvesquarelogo.png\",\"w\":75,\"h\":75}},{\"id\":4,\"required\":1,\"title\":{\"text\":\"Revamp Your Wardrobe\"}},{\"id\":6,\"required\":1,\"img\":{\"url\":\"https://ash.creativecdn.com/images?id=d6ec97021eea0505501a3e9db3898a594c981119\\u0026w=1200\\u0026h=627\\u0026o=DIGR-MS61\\u0026fid=LJoNVHxOSNtF6I6UpdvT\",\"w\":1200,\"h\":627}}],\"link\":{\"url\":\"https://us.creativecdn.com/clicks?id=20250102_8YViExP8R3xjoDw8HwlU\\u0026tk=p39X7oHSixtAUnSN5yXs-s6W1DEv5AJb8Dv-KkvkIrM8QEpcVOP68o312mewzv6Ho3DMU1cczSREhJue37BymqeB7GtZMAuH9U9gcGUPJ6Q6uNZKXUJ_wiWfGT_PJPmFvB9q8mXlBqrWRVbjaq8lnqGyBIWMpGzmu-1W2_B3PBIe3g4yBwy3dpp9ask0dZ-XS6_1-s7TjEaMwd2_yl_qumQBYhssZ6kde-Kj_oPiYBTz3tNdOHr0fG_D9ASnVQAwSpijLsK_ctk4rKDWkqjvLV5aTnmhgLSKu-PMl9EYhwmkTXquKQcTS7Nm7sJVuNck8n3Vov4MSN8wtaTxDuGs3qusG37kV6zRK04w68RiR-gQX5_KbFQrAVNI80j4ebFClnU0JV192TrkBDsEu-NF-1Em8Cr4JPXucp7cbv78yHUBG1ayIol9lKQnyfc_-raSERosVat4W-0m0ZQMKP1Sq4fVywNbwKX_riFS4zznuvmErulgorSkv-wGyoF12ep58PnGCaVE9NmVSjMxhWE9ENmLhhYSnJOOXIWZpyq1HXZOVlRvMQ3NGCRErspkZsHVog0wGxMQdhJ4zdJux7YUkA\",\"clicktrackers\":[\"https://t-odx.op-mobile.opera.com/click?a=a4144024095168\\u0026adomain=revolve.com\\u0026b=1459645446\\u0026bf=2\\u0026cc=US\\u0026ch=inmobi\\u0026cid=nZ7op0L6l0SYgAYREhBp\\u0026cm=1\\u0026crid=Ji0Inv2cgTU6DRBkEESG\\u0026ct=\\u0026dbid=20250102_8YViExP8R3xjoDw8HwlU\\u0026dic=1\\u0026dm=inmobi\\u0026dmv=i1072\\u0026drid=00020b44449e7d060380_5360\\u0026dvm=iPhone14Pro\\u0026dvt=PHONE\\u0026ep=ep11903970670912\\u0026ext=c3r9pILmdp4AeINO-3FwR0vK73iTG1tdoC7ik1UFOS3iVkxCy_vEp6tYzzDjkPNnM2-8imHoZVd0jClTXcO360uI14eo6u6yREzdCqQ9EDPDuVwE-wj_k1-8rOIzW6Bi_5M--_g21MizjK-5DahdTGcHthIjFJajec5qziC9sQVkf7xD8yAQdgoP3zAQuPMR\\u0026gi=368C8366-5523-479C-9B18-C0B3F0F78E29\\u0026iabCat=IAB22\\u0026lang=en\\u0026m=m4144024095360\\u0026mbi=m14_f117\\u0026msz=1200x627\\u0026ot=IOS\\u0026ov=18.0.1\\u0026pic=1\\u0026pubId=pub10682794419520\\u0026radv=rtbhouse\\u0026rf=2\\u0026rip=174.198.10.209\\u0026s=s10682856751040\\u0026said=1921088304\\u0026sc=3\\u0026schp=1-3\\u0026se=00020b44449e7d060380\\u0026siid=edf5ddcf-6f10-4ebb-b2d9-f1fb2baae5b5\\u0026spid=3232\\u0026srid=70a63493-299a-4c95-b274-bdf571f23a35\\u0026ss=2\\u0026stid=inmobi\\u0026tscid=2bb7a37a446502ca\\u0026u=3f621e22297a8c11\\u0026urf=2\\u0026va=a4144024095168\\u0026vm=m4144024095360\"]},\"eventtrackers\":[{\"event\":1,\"method\":1,\"url\":\"https://t-odx.op-mobile.opera.com/impr?a=a4144024095168\\u0026adomain=revolve.com\\u0026b=1459645446\\u0026bf=2\\u0026cc=US\\u0026ch=inmobi\\u0026cid=nZ7op0L6l0SYgAYREhBp\\u0026cm=1\\u0026crid=Ji0Inv2cgTU6DRBkEESG\\u0026ct=\\u0026dbid=20250102_8YViExP8R3xjoDw8HwlU\\u0026dic=1\\u0026dm=inmobi\\u0026dmv=i1072\\u0026drid=00020b44449e7d060380_5360\\u0026dvm=iPhone14Pro\\u0026dvt=PHONE\\u0026ep=ep11903970670912\\u0026ext=c3r9pILmdp4AeINO-3FwR0vK73iTG1tdoC7ik1UFOS3iVkxCy_vEp6tYzzDjkPNnM2-8imHoZVd0jClTXcO360uI14eo6u6yREzdCqQ9EDPDuVwE-wj_k1-8rOIzW6Bi_5M--_g21MizjK-5DahdTGcHthIjFJajec5qziC9sQVkf7xD8yAQdgoP3zAQuPMR\\u0026gi=368C8366-5523-479C-9B18-C0B3F0F78E29\\u0026iabCat=IAB22\\u0026impr_dl=1735858751945\\u0026lang=en\\u0026m=m4144024095360\\u0026mbi=m14_f117\\u0026msz=1200x627\\u0026ot=IOS\\u0026ov=18.0.1\\u0026pic=1\\u0026pubId=pub10682794419520\\u0026radv=rtbhouse\\u0026rf=2\\u0026rip=174.198.10.209\\u0026s=s10682856751040\\u0026said=1921088304\\u0026sc=3\\u0026schp=1-3\\u0026se=00020b44449e7d060380\\u0026siid=edf5ddcf-6f10-4ebb-b2d9-f1fb2baae5b5\\u0026spid=3232\\u0026srid=70a63493-299a-4c95-b274-bdf571f23a35\\u0026ss=2\\u0026stid=inmobi\\u0026tscid=2bb7a37a446502ca\\u0026u=3f621e22297a8c11\\u0026urf=2\\u0026va=a4144024095168\\u0026vm=m4144024095360\\u0026ac=${AUCTION_CURRENCY}\\u0026ap=${AUCTION_PRICE}\"},{\"event\":1,\"method\":1,\"url\":\"https://ash.creativecdn.com/win-notify?tk=mAWpAlwIXE9a5zuF1q35bU3GdwcNpUsknBEk8i11RFIrilaNqpK9Dx49ifeQkhXSOoAdgvhcvaNv6mmvX32wvk4WbMFQRIdHqJcDg-XoRdd735cHPTaqZWPmxXbL2oS1N0mKKNeYihHkiHmICvfmJnwdMiihyh6PUd7Z-6SBJ6ybz4EwMfD7mpKZnp2GNvA6b3WVxP3B5haBuYAF41gx1UstGB3YrYugPd7-O3E_IuFxPkQs9TWmSeWsGXgGJxtUXZbQQgcXj4b0aA6p7ejpriiO9OVZeETsOvg_KHVgTaHyloqeiLIxWCWw4t7agq-oxqmveB4dt9G3NF_ZJ9L7dxasnkR5MJEoJSa-dHMcdHEt8MM2mR6f74NUBOSIzdVliYeFFlt8rSn_3kjzF9e24qBE7-mIxITzyFJ8Zagl60vYSO2bdBz3MmEY3VeOELuw9QZSXwMQCJThW4sCK59kZKCy_nItLNgiTkw-AWZ4O9OkvC-x7uTRZWTMuiL8zpYJWT6OrqKsFF3cq5Ww54CufwCZGpSkZsy-bk_BnVgukG49CTzQZw7L6PW7BBsaZw-V\\u0026wp=2.934927\\u0026tdc=ash\"},{\"event\":1,\"method\":1,\"url\":\"https://opr.adx.opera.com/i?clid=opr\\u0026paid=opr\\u0026avid=adv3198545450624\\u0026caid=o3199620651328\\u0026plid=m4144024095360-Ji0Inv2cgTU6DRBkEESG\\u0026siteId=app10682820282176\\u0026kv7=pub10682794419520\\u0026publisherId=3232\\u0026kv1=1200x627\\u0026kv4=174.198.10.209\\u0026kv3=3f621e22297a8c11\\u0026kv10=\\u0026kv12=s10682856751040\\u0026kv25=BeReal%3A+Photos+%26+Friends+Daily\\u0026kv15=US\\u0026kv16=40.14074000\\u0026kv17=-75.20974000\\u0026kv18=1459645446\\u0026kv19=368C8366-5523-479C-9B18-C0B3F0F78E29\\u0026kv28=iPhone14Pro\\u0026kv26=IOS\\u0026kv23=\\u0026kv27=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+18_0_1+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Mobile%2F15E148\\u0026kv11=00020b44449e7d060380\\u0026lineItemId=a4144024095168\\u0026kv5=OpenRTB\\u0026kv55=1.0%2C1%21inmobi.com%2Ccf1ac1a5de5243e592c31858f354ffa2%2C1%2C%2C%2C%21smartadserver.com%2C3232%2C1%2C%2C%2C%21opera.com%2Cpub10682794419520%2C1%2C00020b44449e7d060380_5360%2C%2C\\u0026kv24=Mobile_InApp_Native\"}],\"privacy\":\"\"}}",
+          "adomain": [
+            "revolve.com"
+          ],
+          "cid": "nZ7op0L6l0SYgAYREhBp",
+          "crid": "Ji0Inv2cgTU6DRBkEESG",
+          "cat": [
+            "IAB22"
+          ],
+          "attr": [],
+          "h": 627,
+          "w": 1200,
+          "exp": 1200,
+          "mtype": 4,
+          "ext": {
+            "vxec": 0
+          }
+        }
+      ],
+      "seat": "0624"
+    }
+  ],
+  "bidid": "00020b44449e7d060380",
+  "cur": "USD"
+}
+Comment: 🟢 BID for this request
+---------------------------------------------------------------------------------------------------------
+[2025-01-02 23:39:12] Request #10:
+HTTP Status: 204
+Response Body: 
+Comment: 🟡 NO BID for this request
+---------------------------------------------------------------------------------------------------------
