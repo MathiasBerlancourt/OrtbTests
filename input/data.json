@@ -1,0 +1,268 @@
+{"url":"https://pub10682794419520.b-us.adx.opera.com/ortb/v2/pub10682794419520?ep=ep11903970670912",
+
+"data":{
+    "id": "70a63493-299a-4c95-b274-bdf571f23a35",
+    "imp": [
+        {
+            "id": "edf5ddcf-6f10-4ebb-b2d9-f1fb2baae5b5",
+            "native": {
+                "request": "{\"native\":{\"ver\":\"1.2\",\"assets\":[{\"id\":1,\"data\":{\"type\":12,\"len\":15}},{\"id\":2,\"data\":{\"type\":3,\"len\":10}},{\"id\":3,\"required\":1,\"img\":{\"type\":1,\"wmin\":75,\"hmin\":75}},{\"id\":4,\"required\":1,\"title\":{\"len\":100}},{\"id\":5,\"data\":{\"type\":2,\"len\":20}},{\"id\":6,\"required\":1,\"img\":{\"type\":3,\"w\":1200,\"wmin\":600,\"h\":627,\"hmin\":313}}],\"plcmttype\":1,\"privacy\":0,\"eventtrackers\":[{\"event\":1,\"methods\":[1]}],\"aurlsupport\":1}}",
+                "ver": "1.2",
+                "api": [],
+                "battr": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17
+                ]
+            },
+            "tagid": "IDAgMA",
+            "bidfloor": 1,
+            "bidfloorcur": "USD",
+            "instl": 0,
+            "secure": 1,
+            "displaymanager": "inmobi",
+            "displaymanagerver": "i1072",
+            "ext": {
+                "wopv": "6216c1b7-f6b3-47d8-ad92-9c23a4c24590",
+                "to": 3
+            }
+        }
+    ],
+    "app": {
+        "id": "1921088304",
+        "name": "BeReal: Photos & Friends Daily",
+        "bundle": "1459645446",
+        "storeurl": "https://apps.apple.com/us/app/bereal-photos-friends-daily/id1459645446?uo=4",
+        "pagecat": [],
+        "domain": "bereal.com",
+        "publisher": {
+            "id": "3232",
+            "name": "InMobi"
+        },
+        "cattax": 1
+    },
+    "device": {
+        "dnt": 0,
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+        "ip": "174.198.10.209",
+        "geo": {
+            "country": "USA",
+            "region": "PA",
+            "city": "fort washington",
+            "zip": "19034",
+            "type": 2,
+            "lat": 40.14074,
+            "lon": -75.20974,
+            "ipservice": 2
+        },
+        "make": "Apple",
+        "model": "iPhone 14 Pro",
+        "os": "iOS",
+        "osv": "18.0.1",
+        "js": 1,
+        "connectiontype": 6,
+        "devicetype": 4,
+        "language": "en",
+        "ifa": "368C8366-5523-479C-9B18-C0B3F0F78E29",
+        "lmt": 0,
+        "ext": {
+            "is_app": 1
+        }
+    },
+    "user": {
+        "id": "0",
+        "ext": {
+            "eids": [
+                {
+                    "source": "id5-sync.com",
+                    "uids": [
+                        {
+                            "id": "ID5*NOszoCKU9w6LBr5KT5q7XTlIkxI0B7BbNIl2kAmDqBfiFZgz3HnMt4Po37S5wVGY"
+                        }
+                    ]
+                },
+                {
+                    "source": "liveintent.com",
+                    "uids": [
+                        {
+                            "id": "9-oSksUBse2KhSs1h9WgOkhftO1SXPX84qMOWWEASE6MXmIqqg91ECVutT4j+QeSQUFzBjZnfNaKqpNLlHVmvR4+clOih+sYPH0+Ae4yuU3xuXNg=="
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "at": 1,
+    "tmax": 250,
+    "cur": [
+        "USD"
+    ],
+    "bcat": [
+        "IAB23-1",
+        "IAB25-1",
+        "IAB25-2",
+        "IAB25-3",
+        "IAB25-4",
+        "IAB25-5",
+        "IAB25-6",
+        "IAB25-7",
+        "IAB26",
+        "IAB26-1",
+        "IAB26-2",
+        "IAB26-3",
+        "IAB26-4",
+        "IAB7-27",
+        "IAB7-26",
+        "IAB7-29",
+        "IAB7-28",
+        "IAB7-23",
+        "IAB7-22",
+        "IAB7-25",
+        "IAB7-24",
+        "IAB7-30",
+        "IAB7-32",
+        "IAB7-31",
+        "IAB23-5",
+        "IAB23-4",
+        "IAB23-3",
+        "IAB23-2",
+        "IAB23-9",
+        "IAB23-8",
+        "IAB23-7",
+        "IAB23-6",
+        "IAB7-38",
+        "IAB7-37",
+        "IAB7-39",
+        "IAB7-34",
+        "IAB7-33",
+        "IAB7-36",
+        "IAB7-35",
+        "IAB19-30",
+        "IAB7-41",
+        "IAB7-40",
+        "IAB7-43",
+        "IAB8-5",
+        "IAB7-42",
+        "IAB4-3",
+        "IAB13-4",
+        "IAB13-3",
+        "IAB8-18",
+        "IAB7-45",
+        "IAB7-44",
+        "IAB4-10",
+        "IAB9-25",
+        "IAB24",
+        "IAB7-10",
+        "IAB23-10",
+        "IAB7-19",
+        "IAB1-2",
+        "IAB7-16",
+        "IAB7-15",
+        "IAB7-18",
+        "IAB7-17",
+        "IAB7-12",
+        "IAB7-11",
+        "IAB7-14",
+        "IAB7-13",
+        "IAB7-4",
+        "IAB7-5",
+        "IAB7-6",
+        "IAB7-21",
+        "IAB7-7",
+        "IAB7-20",
+        "IAB14-8",
+        "IAB3-4",
+        "IAB7-1",
+        "IAB7-2",
+        "IAB7-3",
+        "IAB14-3",
+        "IAB14-2",
+        "IAB14-1",
+        "IAB7-8",
+        "IAB7-9",
+        "IAB18-2",
+        "IAB14-5",
+        "IAB9-9"
+    ],
+    "badv": [
+        "louisianalottery.com",
+        "mobeegaming.com",
+        "doubleugames.com",
+        "betano.ca",
+        "zeroogravitygames.com",
+        "zynga.com",
+        "silverreefcasino.com",
+        "casinogamehaus.com",
+        "swinomishcasinoandlodge.com",
+        "bolegames.com",
+        "bethesda.net",
+        "triwingames.com",
+        "betta-games.net",
+        "jackpotparty.com",
+        "kickapoo-casino.com",
+        "shopee.vn",
+        "productmadness.com",
+        "betocarrero.com.br",
+        "ibotta.com",
+        "pngaming.com",
+        "papayagaming.com",
+        "crypto.com",
+        "murka.com",
+        "solitairecash.com",
+        "cartercasino.com",
+        "huuugegames.com",
+        "doubledowncasino2.com",
+        "centurygames.com",
+        "casinohaus.com",
+        "leelanausandscasino.com",
+        "tap-nation.io",
+        "doubledowncasino.com",
+        "golden-hoyeah.com",
+        "playwsop.com"
+    ],
+    "source": {
+        "fd": 1,
+        "tid": "c803e94a-0181-4eb9-9cc8-b211d2045874",
+        "ext": {
+            "schain": {
+                "ver": "1.0",
+                "complete": 1,
+                "nodes": [
+                    {
+                        "asi": "inmobi.com",
+                        "sid": "cf1ac1a5de5243e592c31858f354ffa2",
+                        "hp": 1
+                    },
+                    {
+                        "asi": "smartadserver.com",
+                        "sid": "3232",
+                        "hp": 1
+                    }
+                ]
+            }
+        }
+    },
+    "regs": {
+        "ext": {
+            "gdpr": 0
+        }
+    },
+    "ext": {
+        "equativ": {
+            "integrationType": 2
+        }
+    },
+    "cattax": 1
+}}
