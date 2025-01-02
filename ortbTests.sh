@@ -59,5 +59,5 @@ for i in {1..10}; do
     echo "---------------------------------------------------------------------------------------------------------" >> "$LOG_FILE"
 done
 
-echo "👩‍🚀 Requests sent successfully."
-echo "💾Logs saved to $LOG_FILE"
+echo "✅ Requests sent successfully."
+echo "💾 Logs saved to $LOG_FILE"
